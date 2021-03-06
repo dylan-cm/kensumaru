@@ -16,6 +16,7 @@
   align-items: center;
 
   max-width: 720px;
+  width: 720px;
   min-height: 100vh;
   height: fit-content;
 

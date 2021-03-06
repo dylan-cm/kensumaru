@@ -1,9 +1,8 @@
 import "./WebNav.css";
-import { Link, useLocation, useRouteMatch } from "react-router-dom";
+import { Link, useRouteMatch } from "react-router-dom";
 
 const WebNav = () => {
   let { url } = useRouteMatch();
-  let location = useLocation();
 
   return (
     <div className="web-nav-container">
@@ -12,55 +11,38 @@ const WebNav = () => {
       </Link>
       <div className="links">
         <Link
-          className={
-            "nav-link" +
-            (location.pathname === `${url}/Synopsis` ? " active" : "")
-          }
+          className={"nav-link" + (url === `/Synopsis` ? " active" : "")}
           to="/Synopsis"
         >
           Synopsis
         </Link>
         <Link
-          className={
-            "nav-link" +
-            (location.pathname === `${url}/Treasure` ? " active" : "")
-          }
+          className={"nav-link" + (url === `/Treasure` ? " active" : "")}
           to="/Treasure"
         >
           Treasure
         </Link>
         <Link
-          className={
-            "nav-link" +
-            (location.pathname === `${url}/Directors` ? " active" : "")
-          }
+          className={"nav-link" + (url === `/Directors` ? " active" : "")}
           to="/Directors"
         >
           Directors
         </Link>
         <Link
-          className={
-            "nav-link" + (location.pathname === `${url}/Crew` ? " active" : "")
-          }
-          to="/synopsis"
+          className={"nav-link" + (url === `/Crew` ? " active" : "")}
+          to="/Crew"
         >
           Crew
         </Link>
         <Link
-          className={
-            "nav-link" +
-            (location.pathname === `${url}/Technology` ? " active" : "")
-          }
-          to="/synopsis"
+          className={"nav-link" + (url === `/Technology` ? " active" : "")}
+          to="/Technology"
         >
           Technology
         </Link>
         <Link
-          className={
-            "nav-link" +
-            (location.pathname === `${url}/Philanthropy` ? " active" : "")
-          }
-          to="/synopsis"
+          className={"nav-link" + (url === `/Philanthropy` ? " active" : "")}
+          to="/Philanthropy"
         >
           Philanthropy
         </Link>
