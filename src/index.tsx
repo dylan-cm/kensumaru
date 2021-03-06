@@ -35,11 +35,6 @@ ReactDOM.render(
           />
           <Route
             exact
-            path="/Synopsis"
-            component={React.lazy(() => import("./screens/Synopsis"))}
-          />
-          <Route
-            exact
             path="/Treasure"
             component={React.lazy(() => import("./screens/Treasure"))}
           />
