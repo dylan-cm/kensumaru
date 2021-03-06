@@ -1,0 +1,38 @@
+.section-container {
+  max-width: 560px;
+  width: 100%;
+
+  margin-bottom: 48px;
+}
+
+.section-container > h1,
+.section-container > h2 {
+  text-align: center;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.section-container > h1 {
+  color: #ffe870;
+}
+
+p {
+  max-width: 480px;
+  margin: 16px 0px;
+  box-sizing: border-box;
+}
+
+a {
+  color: aquamarine;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .section-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .section-container > img {
+    align-self: center;
+  }
+}
