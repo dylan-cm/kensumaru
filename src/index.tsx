@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Splash from "./pages/Splash/Splash";
+import Splash from "./screens/Splash/Splash";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
