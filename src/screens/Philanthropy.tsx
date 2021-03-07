@@ -3,7 +3,7 @@ import Layout from "../organisms/Layout";
 const Philanthropy = () => {
   return (
     <Layout>
-      <h1>Philanthropy</h1>
+      <h1>COMING SOON</h1>
     </Layout>
   );
 };

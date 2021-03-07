@@ -1,10 +1,13 @@
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import yamashita from "../assets/genral_yamashita.jpeg";
+import Image from "../atoms/Image";
 
 const Synopsis = () => {
   return (
     <Layout>
       <Section head="Synopsis">
+        <Image src={yamashita} left start />
         During World War II the Japanese Imperial Army systematically looted
         China and the other occupied Asian nations amassing a vast fortune of
         gold and treasure that was shipped to the Philippines en route to Japan.
