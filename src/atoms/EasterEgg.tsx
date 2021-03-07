@@ -1,16 +1,12 @@
 import "./EasterEgg.css";
-import gold from "../../assets/gold-bars.png";
+import gold from "../assets/gold-bars.png";
 
 function onClickGold() {
-  alert("You found Yamashita's Gold! To the victor go the spoils!");
+  alert("You found Yamashita's Gold!");
 }
 
 const EasterEgg = () => {
-  return (
-    <div className="easter-egg">
-      <img src={gold} className="gold" alt="gold" onClick={onClickGold} />
-    </div>
-  );
+  return <img src={gold} className="gold" alt="gold" onClick={onClickGold} />;
 };
 
 export default EasterEgg;

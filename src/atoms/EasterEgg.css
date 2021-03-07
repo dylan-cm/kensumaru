@@ -1,12 +1,11 @@
 .easter-egg {
-  height: 500vh;
+  /* height: 500vh;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-end; */
 }
 
 .gold {
-  width: 100px;
+  width: 64px;
   cursor: pointer;
-  margin-bottom: 40px;
 }
