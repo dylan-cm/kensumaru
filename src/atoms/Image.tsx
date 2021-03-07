@@ -7,6 +7,7 @@ interface ImageProps {
   right?: boolean;
   left?: boolean;
   start?: boolean;
+  end?: boolean;
 }
 
 const Image = (props: ImageProps) => {
@@ -16,6 +17,7 @@ const Image = (props: ImageProps) => {
   if (props.right) classes += " right";
   if (props.left) classes += " left";
   if (props.start) classes += " start";
+  if (props.end) classes += " end";
 
   return (
     <div className={classes} style={{ backgroundImage: `url(${props.src})` }} />

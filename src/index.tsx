@@ -15,13 +15,18 @@ ReactDOM.render(
           />
           <Route
             exact
-            path="/Crew"
-            component={React.lazy(() => import("./screens/Crew"))}
+            path="/Synopsis"
+            component={React.lazy(() => import("./screens/Synopsis"))}
           />
           <Route
             exact
             path="/Directors"
             component={React.lazy(() => import("./screens/Directors"))}
+          />
+          <Route
+            exact
+            path="/Crew"
+            component={React.lazy(() => import("./screens/Crew"))}
           />
           <Route
             exact

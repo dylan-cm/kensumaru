@@ -11,6 +11,12 @@ const WebNav = () => {
       </Link>
       <div className="links">
         <Link
+          className={"nav-link" + (url === `/Synopsis` ? " active" : "")}
+          to="/Synopsis"
+        >
+          Synopsis
+        </Link>
+        <Link
           className={"nav-link" + (url === `/Treasure` ? " active" : "")}
           to="/Treasure"
         >

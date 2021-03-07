@@ -22,6 +22,9 @@
 .start {
   margin-top: 0;
 }
+.start {
+  margin-bottom: 0;
+}
 
 @media (max-width: 600px) {
   .generic-image {
