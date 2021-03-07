@@ -1,9 +1,4 @@
 body {
-  background-color: #121c38;
-  background-image: url(./assets/darklinetopography.svg);
-  background-size: 500px 500px;
-  background-blend-mode: darken;
-
   color: #fffdf4;
   font-size: 1.1rem;
   text-align: left;
@@ -21,6 +16,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+html {
+  background-color: #121c38;
+  background-image: url(./assets/topography.png);
+  background-size: 500px 500px;
+  background-blend-mode: darken;
 }
 
 code {
