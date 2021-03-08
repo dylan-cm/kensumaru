@@ -17,31 +17,41 @@
   background-color: #111b33;
 }
 
-.logo {
-  min-width: 200px;
-  cursor: pointer;
-  color: #fffdf4;
+@font-face {
+  font-family: "Boycott";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Boycott"), local("BOYCOTT"),
+    url("../assets/BOYCOTT.ttf") format("truetype");
 }
 
-.logo h1 {
+.logo-container {
+  min-width: 200px;
+  cursor: pointer;
+}
+.logo {
   padding: 0px;
   margin: 0px;
-  font-size: 1.75rem;
-  font-family: system-ui;
-  font-weight: 900;
+  font-size: 2rem;
+  color: #fffdf4;
+  font-family: "Boycott" !important;
+}
+
+.logo:hover {
+  color: aquamarine;
 }
 
 .links {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-
   width: 100%;
 }
 
 .nav-link {
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 1rem;
+  text-transform: uppercase;
   color: #fffdf4;
 }
 

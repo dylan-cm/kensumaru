@@ -6,8 +6,8 @@ const WebNav = () => {
 
   return (
     <div className="web-nav-container">
-      <Link className="logo" to="/">
-        <h1>KENSU MARU</h1>
+      <Link className="logo-container" to="/">
+        <h1 className="logo">KENSU MARU</h1>
       </Link>
       <div className="links">
         <Link
