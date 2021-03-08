@@ -1,5 +1,3 @@
-
-
 body {
   color: #fffdf4;
   font-size: 1.1rem;
@@ -22,8 +20,8 @@ body {
 
 html {
   background-color: #121c38;
-  background-image: url(./assets/topography.png);
-  background-size: 500px 500px;
+  background-image: url(./assets/topography2.svg);
+  background-size: 1000px 1000px;
   background-blend-mode: darken;
 }
 
