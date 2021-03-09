@@ -40,7 +40,11 @@
 }
 
 a {
-  color: aquamarine;
+  color: #ffe870;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(255, 127, 127);
   text-decoration: none;
 }
 

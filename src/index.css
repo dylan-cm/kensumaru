@@ -19,9 +19,9 @@ body {
 }
 
 html {
-  background-color: #121c38;
-  background-image: url(./assets/topography2.svg);
-  background-size: 1000px 1000px;
+  background-color: #0c5261;
+  background-image: url("./assets/topographic_complex5.svg");
+  background-size: 1500px 1500px;
   background-blend-mode: darken;
 }
 
