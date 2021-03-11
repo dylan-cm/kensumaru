@@ -582,6 +582,8 @@ const Crew = () => {
           the only manager/producer to debut a comedy album in Billboard's top 5
           national charts-twice.
         </p>
+        {/*
+        //! Redacted 
         <h3>Phil Bronstein</h3>
         <h4>Interview Subject/Advisor</h4>
         <p>
@@ -599,7 +601,7 @@ const Crew = () => {
           Broadcast Corporation mini-series A DANGEROUS LIFE , was based on
           Phil’s experience as a front-line journalist during the People Power
           Revolution in the Philippines.
-        </p>
+        </p> 
         <h3>Kim Komenich</h3>
         <h4>Interview Subject/Advisor</h4>
         <p>
@@ -625,6 +627,7 @@ const Crew = () => {
           U/S Army Heritage and Education Center. Scott was also a featured
           presenter on The Smithsonian Channel’s TV series HELL BELOW.
         </p>
+        */}
         <h3>Expedition Psychic</h3>
         <h4>TBD</h4>
         <p>
