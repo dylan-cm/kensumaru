@@ -25,8 +25,13 @@ ReactDOM.render(
           />
           <Route
             exact
-            path="/Crew"
-            component={React.lazy(() => import("./screens/Crew"))}
+            path="/Filmmakers"
+            component={React.lazy(() => import("./screens/Filmmakers"))}
+          />
+          <Route
+            exact
+            path="/ExpeditionTeam"
+            component={React.lazy(() => import("./screens/ExpeditionTeam"))}
           />
           <Route
             exact

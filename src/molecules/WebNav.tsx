@@ -29,10 +29,16 @@ const WebNav = () => {
           Directors
         </Link>
         <Link
-          className={"nav-link" + (url === `/Crew` ? " active" : "")}
-          to="/Crew"
+          className={"nav-link" + (url === `/ExpeditionTeam` ? " active" : "")}
+          to="/ExpeditionTeam"
         >
-          Crew
+          Expedition Team
+        </Link>
+        <Link
+          className={"nav-link" + (url === `/Filmmakers` ? " active" : "")}
+          to="/Filmmakers"
+        >
+          Filmmakers
         </Link>
         <Link
           className={"nav-link" + (url === `/Technology` ? " active" : "")}
