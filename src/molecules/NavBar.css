@@ -128,3 +128,10 @@
     width: 100%;
   }
 }
+
+@media (min-width: 1020px){
+  .menu,
+.menu-button {
+  display: none !important;
+}
+}
