@@ -5,12 +5,12 @@
   align-items: flex-end;
 
   padding: 0px 144px;
-  padding-bottom: 36px;
+  padding-bottom: 72px;
   margin-top: 72px;
   box-sizing: border-box;
 
   width: 100%;
-  min-height: 144px;
+  min-height: 288px;
 
   background: rgb(0, 0, 0);
   background: -moz-linear-gradient(
