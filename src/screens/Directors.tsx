@@ -7,7 +7,7 @@ import Image from "../atoms/Image";
 const Directors = () => {
   return (
     <Layout>
-      <Section head="Director's Statements" subhead="Charles Hambleton">
+      <Section subhead="Charles Hambleton">
         <Image src={charlesPortrait} portrait right start />
         Everyone loves a treasure hunt story, everyone loves adventure, and
         everyone loves gold. The Kensu Maru project began when one of my friends
