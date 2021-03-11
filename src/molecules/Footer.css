@@ -34,11 +34,6 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
 }
 
-.footer-container > a{
-  padding:12px 0px;
-}
-
-
 @media (max-width: 1020px) {
   .footer-container {
     flex-direction: column;
@@ -49,8 +44,11 @@
     padding-bottom: 24px;
   }
 
+  .footer-container > a {
+    padding: 12px 0px;
+  }
 
-.gold{
-  padding: 24px;
-}
+  .gold {
+    padding: 24px;
+  }
 }
