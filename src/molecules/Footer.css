@@ -11,6 +11,9 @@
 
   width: 100%;
   min-height: 288px;
+  height: fit-content;
+
+  text-align: center;
 
   background: rgb(0, 0, 0);
   background: -moz-linear-gradient(
@@ -31,9 +34,23 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
 }
 
-@media (max-width) {
+.footer-container > a{
+  padding:12px 0px;
+}
+
+
+@media (max-width: 1020px) {
   .footer-container {
-    padding-right: 24px;
-    padding-left: 24px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 144px 24px;
+    padding-bottom: 24px;
   }
+
+
+.gold{
+  padding: 24px;
+}
 }
