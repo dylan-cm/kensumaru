@@ -4,7 +4,7 @@ import Layout from "../organisms/Layout";
 const Crew = () => {
   return (
     <Layout>
-      <Section head="The Expedition Crew">
+      <Section head="The Expedition Team">
         <h3>Dr. Chuck Mcdougald PhD</h3>
         <h4>Expedition Leader</h4>
         <p>
@@ -220,7 +220,7 @@ const Crew = () => {
           expedition.
         </p>
       </Section>
-      <Section head="Philippine Crew">
+      <Section head="The Philippine Crew">
         <h3>JJ Samual Soriano</h3>
         <h4>Philippine Government Liaison</h4>
         <p>
