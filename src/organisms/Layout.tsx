@@ -1,5 +1,5 @@
 import Footer from "../molecules/Footer";
-import WebNav from "../molecules/WebNav";
+import WebNav from "../molecules/NavBar";
 import "./Layout.css";
 
 const Layout = (props: any) => {
