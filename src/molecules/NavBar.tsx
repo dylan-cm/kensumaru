@@ -17,42 +17,49 @@ const WebNav = () => {
     <Link
       className={"nav-link" + (url === `/Synopsis` ? " active" : "")}
       to="/Synopsis"
+      id="link-Synopsis"
     >
       Synopsis
     </Link>,
     <Link
       className={"nav-link" + (url === `/Treasure` ? " active" : "")}
       to="/Treasure"
+      id="link-Treasure"
     >
       Treasure
     </Link>,
     <Link
       className={"nav-link" + (url === `/Directors` ? " active" : "")}
       to="/Directors"
+      id="link-Directors"
     >
       Directors
     </Link>,
     <Link
       className={"nav-link" + (url === `/ExpeditionTeam` ? " active" : "")}
       to="/ExpeditionTeam"
+      id="link-ExpeditionTeam"
     >
       Expedition Team
     </Link>,
     <Link
       className={"nav-link" + (url === `/Filmmakers` ? " active" : "")}
       to="/Filmmakers"
+      id="link-Filmmakers"
     >
       Filmmakers
     </Link>,
     <Link
       className={"nav-link" + (url === `/Technology` ? " active" : "")}
       to="/Technology"
+      id="link-Technology"
     >
       Technology
     </Link>,
     <Link
       className={"nav-link" + (url === `/Philanthropy` ? " active" : "")}
       to="/Philanthropy"
+      id="link-Philanthropy"
     >
       Philanthropy
     </Link>,
