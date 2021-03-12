@@ -1,8 +1,60 @@
+.grow-image {
+  position: absolute;
+  top: 0;
+  height: 90vh;
+  display: none;
+}
+
 .poster {
   max-width: 100%;
-  width: 480px;
-  height: auto;
-  pointer-events: none;
+  width: 240px;
+
   margin-bottom: 40px;
   box-sizing: border-box;
+}
+
+.poster {
+  cursor: pointer;
+}
+
+.home-page {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: flex-start;
+
+  width: 100%;
+}
+
+.chuck {
+  cursor: inherit !important;
+}
+
+@media (min-width: 1020px) {
+  .poster {
+    margin: 16px 40px;
+  }
+
+  #mobile-chuck {
+    display: none;
+  }
+}
+
+@media (max-width: 1020px) {
+  .home-page {
+    flex-direction: column !important;
+    align-items: center;
+  }
+
+  .side {
+    display: flex;
+    align-items: center;
+  }
+
+  #web-chuck {
+    display: none;
+  }
+
+  #mobile-chuck {
+    display: block;
+  }
 }
