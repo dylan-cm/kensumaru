@@ -1,3 +1,8 @@
+.hash-locator {
+  position: relative;
+  top: -72px;
+}
+
 .section-container {
   max-width: 560px;
   width: 100%;

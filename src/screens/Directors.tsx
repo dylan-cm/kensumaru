@@ -7,7 +7,7 @@ import Image from "../atoms/Image";
 const Directors = () => {
   return (
     <Layout>
-      <Section subhead="Charles Hambleton">
+      <Section subhead="Charles Hambleton" id="charles">
         <Image src={charlesPortrait} portrait right start />
         Everyone loves a treasure hunt story, everyone loves adventure, and
         everyone loves gold. The Kensu Maru project began when one of my friends
@@ -89,7 +89,7 @@ const Directors = () => {
         characters, and gain insights into human behavior. Isn’t that what a
         good movie should be?
       </Section>
-      <Section subhead="JOHNNY O’HARA">
+      <Section subhead="JOHNNY O’HARA" id="johnny">
         <Image src={johnnyPortrait} portrait right start />
         <p>
           I first became aware of Charles Hambleton when I saw the Oscar-winning

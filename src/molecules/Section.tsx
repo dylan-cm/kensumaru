@@ -5,6 +5,7 @@ interface SectionProps {
   subhead?: string;
   children?: React.ReactNode;
   noInline?: boolean;
+  id?: string;
 }
 
 const Section = (props: SectionProps) => {
@@ -13,6 +14,7 @@ const Section = (props: SectionProps) => {
 
   return (
     <div className={classes}>
+      <div className="hash-locator" id={props.id} />
       {props.head ? <h1>{props.head}</h1> : <></>}
       {props.subhead ? <h2>{props.subhead}</h2> : <></>}
       {props.children}
