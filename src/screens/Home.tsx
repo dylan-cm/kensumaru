@@ -44,13 +44,6 @@ const Home = () => {
             id="poster"
             onClick={(event) => growImage(event)}
           />
-          <img
-            src={chuckGold}
-            className="poster chuck"
-            id="web-chuck"
-            alt="chuck holding gold"
-            onClick={(event) => growImage(event)}
-          />
         </div>
         <Section noInline>
           <p>
@@ -81,6 +74,13 @@ const Home = () => {
             endeavors and to seek justice for the Filipino people.
           </p>
 
+          <img
+            src={chuckGold}
+            className="poster chuck"
+            id="web-chuck"
+            alt="chuck holding gold"
+            onClick={(event) => growImage(event)}
+          />
           <img
             src={chuckGold}
             className="poster chuck"

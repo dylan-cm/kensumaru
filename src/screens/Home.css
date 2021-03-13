@@ -6,16 +6,16 @@
 }
 
 .poster {
-  max-width: 100%;
-  width: 240px;
+  max-width: 480px;
+  width: 100%;
 
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   box-sizing: border-box;
-}
 
-.poster {
   cursor: pointer;
 }
+
+
 
 .home-page {
   display: flex;
@@ -27,15 +27,21 @@
 
 .chuck {
   cursor: inherit !important;
+  max-width: 240px;
 }
 
 @media (min-width: 1020px) {
-  .poster {
+  /* .poster {
     margin: 16px 40px;
-  }
+  } */
 
   #mobile-chuck {
     display: none;
+  }
+
+  .side{
+    max-width: 240px;
+    padding-right: 24px;
   }
 }
 
