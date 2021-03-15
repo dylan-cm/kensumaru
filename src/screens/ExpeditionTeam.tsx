@@ -83,7 +83,6 @@ const Crew = () => {
           days.
           <br />
           <br />
-          <Image src={chuck1} left />
           Marcos was declared the winner of the election but the election was
           proven to be fraudulent. Thus began a sequence of events that led to
           the People Power Revolution that deposed Marcos and forced him to flee
@@ -158,7 +157,7 @@ const Crew = () => {
         <h3>Jeff Smith</h3>
         <h4>Undersea Technologist</h4>
 
-        <Image src={jeff} left />
+        <Image src={jeff} left bleed />
         <p>
           Jeff Smith is an entrepreneur and subsea technologist. He is currently
           a Chief Scientist for Unmanned Undersea Vehicle (UUV) Systems with BAE
