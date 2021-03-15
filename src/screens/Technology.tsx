@@ -1,11 +1,20 @@
+import Image from "../atoms/Image";
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import riptide from "../assets/0riptide.jpeg";
+import videoray from "../assets/0videoray.jpeg";
+import sat from "../assets/0sattelite.jpeg";
+import dillard from "../assets/0dillard.jpeg";
+import sub from "../assets/0pentarus2.png";
+import cat from "../assets/0cata.jpeg";
+import waka from "../assets/0waka.png";
 
 const Technology = () => {
   return (
     <Layout>
       <Section head="The Technology">
         <h3>Riptide Autonomous Solutions UUV</h3>
+        <Image bleed left src={riptide} />
         <p>
           The most powerful technology our expedition will be deploying to
           confirm the location of the Kensu Maru is our cutting edge Riptide UUV
@@ -24,6 +33,7 @@ const Technology = () => {
           ROV technicians and pilots in the world.
         </p>
         <h3>VIDEORAY Pro 4 ROV</h3>
+        <Image bleed left src={videoray} />
         <p>
           The Kensu Maru Expedition will deploy a VideoRay Pro 4 remotely
           operated vehicle to capture 4K video at the shipwreck site after sonar
@@ -38,6 +48,7 @@ const Technology = () => {
           surface cinematography.
         </p>
         <h3>Nuclear Magnetic Resonance Satellite Imaging</h3>
+        <Image bleed left src={sat} />
         <p>
           After confirming the location of the Kensu Maru with sonar and video,
           John Casey will use his company, Geoscan, to pinpoint the exact
@@ -66,6 +77,7 @@ const Technology = () => {
       </Section>
       <Section head="The Vessels">
         <h3>The John A.B. Dillard</h3>
+        <Image bleed left src={dillard} />
         <p>
           The Kensu Maru Expedition and film crew will be using the US Army
           Corps of Engineers vessel John A.B.Dillard, as a support vessel while
@@ -79,6 +91,7 @@ const Technology = () => {
           Philippines.
         </p>
         <h3>Pentarius Submarine</h3>
+        <Image bleed left src={sub} />
         <p>
           The team will deploy the DeepFlight Super Falcon sub PENTARIUS to film
           the wreck of the Kensu Maru and investigate several other promising
@@ -95,6 +108,7 @@ const Technology = () => {
           half a billion dollars in treasure.
         </p>
         <h3>Catamaran Cheyenne</h3>
+        <Image bleed left src={cat} />
         <p>
           The Pentarius sub’s mothership is the 130’ CHEYENNE, which in a
           previous life was adventurer Steve Fossett’s ocean racing Maxi Cat,
@@ -114,6 +128,7 @@ const Technology = () => {
           environmental initiatives.
         </p>
         <h3>Waka Seto</h3>
+        <Image bleed left src={waka} />
         <p>
           The research vessel Waka Seto is the smallest survey vessel operated
           by Sub-See Philippines, an oceaneering company based in Cebu City,

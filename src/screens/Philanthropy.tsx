@@ -1,5 +1,7 @@
+import Image from "../atoms/Image";
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import gold from "../assets/0gold.png";
 
 const Philanthropy = () => {
   return (
@@ -31,6 +33,7 @@ const Philanthropy = () => {
           well thought-out and very specific plan in mind. The audience will
           only learn his plan in the final act of the film.
         </p>
+        <Image src={gold} bleed left />
       </Section>
     </Layout>
   );

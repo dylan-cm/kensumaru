@@ -1,5 +1,7 @@
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import Image from "../atoms/Image";
+import map from "../assets/0map.jpg";
 
 const Treasure = () => {
   return (
@@ -43,6 +45,7 @@ const Treasure = () => {
           dollars. Our expedition is planning to locate the one that’s easiest
           to recover, the ship code-named Kensu Maru.
         </p>
+        <Image src={map} bleed left />
       </Section>
     </Layout>
   );

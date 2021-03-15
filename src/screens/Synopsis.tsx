@@ -1,6 +1,6 @@
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
-import yamashita from "../assets/genral_yamashita.jpeg";
+import yamashita from "../assets/0yamashita.jpeg";
 import Image from "../atoms/Image";
 
 const Synopsis = () => {

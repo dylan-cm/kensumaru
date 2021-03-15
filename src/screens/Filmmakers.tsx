@@ -1,5 +1,16 @@
+import Image from "../atoms/Image";
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import charles1 from "../assets/0portraitcharles2.jpeg";
+import johnny1 from "../assets/0portraitjohnny.jpeg";
+import mans from "../assets/0portraitmans.jpeg";
+import pam from "../assets/0portraitpam.jpeg";
+import tina from "../assets/0portraittina.png";
+import sean from "../assets/0portraitsean.jpg";
+import brian from "../assets/0portraitbrian.jpeg";
+import jc from "../assets/0portraitjc.jpeg";
+import dylan from "../assets/0portraitdylan.jpeg";
+import katz from "../assets/0portraitkatz.jpeg";
 
 const Crew = () => {
   return (
@@ -7,6 +18,7 @@ const Crew = () => {
       <Section head="The Filmmakers">
         <h3>Charles Hambleton</h3>
         <h4>Producer / Director</h4>
+        <Image src={charles1} left />
         <p>
           Charles is a filmmaker, explorer, sailor, diver, and pilot with
           experience on both narrative feature films and documentaries. He was a
@@ -44,11 +56,11 @@ const Crew = () => {
           Charles was a team member on several underwater treasure hunting
           expeditions in Bermuda, the Caribbean, and Venezuela, where he
           co-discovered the French Fleet of 1678 in Islas Las Aves. He has
-          experience with Edgetech and Imagenex Side Scan Sonar and has used his
-          skills to survey Chewamogon Bay, Lake Superior, mapping submerged old
-          growth logs to be salvaged as rare and valuable timber used for high
-          quality furniture and musical instruments owned by such luminaries as
-          Johnny Cash and The Eagles.
+          experience with Edgetech and Imagenex Side Scan Sonar left and has
+          used his skills to survey Chewamogon Bay, Lake Superior, mapping
+          submerged old growth logs to be salvaged as rare and valuable timber
+          used for high quality furniture and musical instruments owned by such
+          luminaries as Johnny Cash and The Eagles.
           <br />
           <br />
           Charles has a long history of environmentalism starting with building
@@ -64,6 +76,7 @@ const Crew = () => {
         </p>
         <h3>Johnny O’Hara</h3>
         <h4>Writer / Director</h4>
+        <Image src={johnny1} left />
         <p>
           Johnny O’Hara is an award- winning filmmaker with an extensive list of
           theatrical credits with a focus on social issue documentaries. His
@@ -84,8 +97,8 @@ const Crew = () => {
           of a Special Jury Prize for Outstanding US Historical Documentary at
           the Sonoma International Film Festival, winner of Best Documentary at
           The Rhode Island International Film Festival, winner of the ABCNews
-          VideoSource Award from The International Documentary Association and
-          winner of the EPIC Award by The White House Project.
+          Video Award from The International Documentary Association and winner
+          of the EPIC Award by The White House Project.
           <br />
           <br />
           BHUTTO was also an official selection of the Hot Docs Film Festival,
@@ -132,12 +145,13 @@ const Crew = () => {
         </p>
         <h3>John Mans</h3>
         <h4>Director Of Photography</h4>
+        <Image src={mans} left />{" "}
         <p>
           John Mans is a Colorado-based cinematographer with 25 years experience
           working on a wide range of films, with an emphasis on action-based
           reality television. Known for his ability to work in difficult
           conditions around the world, he enthusiastically undertakes unique and
-          demanding projects to bring back images from the air, mountains,
+          demanding projects to bring back images from the air left, mountains,
           underwater, or from distant reaches of the planet. Equally comfortable
           shooting narrative, non-fiction, natural history, or hosted reality,
           John happily explores and collaborates with all kinds of talent and
@@ -149,6 +163,7 @@ const Crew = () => {
         </p>
         <h3>Pamela Green</h3>
         <h4>Motion Graphics / Archival Producer</h4>
+        <Image src={pam} left />{" "}
         <p>
           Pamela Green is an award winning director/writer/producer/ researcher
           and founder of PIC AGENCY, an entertainment and motion design boutique
@@ -184,6 +199,7 @@ const Crew = () => {
         </p>
         <h3>Tina Imahara</h3>
         <h4>Editor</h4>
+        <Image src={tina} left />
         <p>
           A 25 year veteran film editor, Tina has edited over 100 short &
           feature films with an emphasis on documentaries. ON TIP TOE, the
@@ -233,6 +249,7 @@ const Crew = () => {
         </p>
         <h3>Sean Keenan</h3>
         <h4>Editor</h4>
+        <Image src={sean} left />
         <p>
           Sean is a multi-talented editor whose primary genre is documentary. He
           has worked on an extensive list of award-winning films and television
@@ -253,6 +270,7 @@ const Crew = () => {
         </p>
         <h3>Brian Weldin</h3>
         <h4>Sound Engineer</h4>
+        <Image src={brian} left />
         <p>
           Brian is a skilled and experienced sound engineer who seamlessly
           adapts to fast-paced and highly technical environments while managing
@@ -269,6 +287,7 @@ const Crew = () => {
         </p>
         <h3>John W. Comerford</h3>
         <h4>Consulting Producer</h4>
+        <Image src={jc} left />
         <p>
           John W. Comerford is a producer of cross-platform content at Paradigm
           Studio. His work includes the award winning coming-of-age feature film
@@ -305,6 +324,7 @@ const Crew = () => {
         </p>
         <h3>Dylan Cortez-Modell</h3>
         <h4>IT, Data Wrangler</h4>
+        <Image src={dylan} left />
         <p>
           Dylan has life-long experience in audio-video technology, starting
           with an apprenticeship with a mastering engineer from A&M records at
@@ -327,6 +347,7 @@ const Crew = () => {
       <Section head="Advisors">
         <h3>Barry Katz</h3>
         <h4>Advisor</h4>
+        <Image src={katz} left />
         <p>
           Barry Katz is an Emmy and Grammy nominated TV-film-record producer,
           talent manager, and podcast host. Throughout his career, Katz has sold
@@ -369,7 +390,8 @@ const Crew = () => {
         //! Redacted 
         <h3>Phil Bronstein</h3>
         <h4>Interview Subject/Advisor</h4>
-        <p>
+    
+    <Image src={source} left />    <p>
           Phil is an American journalist/editor and serves as executive chair of
           the board for the Center for Investigative Reporting in Berkeley,
           California. He is best known for his work as a war correspondent and
@@ -387,7 +409,8 @@ const Crew = () => {
         </p> 
         <h3>Kim Komenich</h3>
         <h4>Interview Subject/Advisor</h4>
-        <p>
+    
+    <Image src={source} left />    <p>
           Kim is an American photojournalist, filmmaker and university
           professor. Komenich was awarded the 1987 Pulitzer Prize in spot news
           photography for his coverage of the Philippine Revolution while on
@@ -397,7 +420,8 @@ const Crew = () => {
         </p>
         <h3>James M Scott</h3>
         <h4>Interview Subject/Advisor</h4>
-        <p>
+    
+    <Image src={source} left />    <p>
           Scott is the author of RAMPAGE; MACARTHUR, YAMASHITA AND THE BATTLE OF
           MANILLA, which was named one of the best books of 2018 by the editors
           at Amazon, Kirkus and Military Times and was chosen as a finalist for

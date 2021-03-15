@@ -1,6 +1,6 @@
 import React from "react";
 import poster from "../assets/poster.jpg";
-import chuckGold from "../assets/chuck_gold.jpeg";
+import chuckGold from "../assets/0chuckgold.jpeg";
 import "./Home.css";
 import Layout from "../organisms/Layout";
 import Section from "../molecules/Section";

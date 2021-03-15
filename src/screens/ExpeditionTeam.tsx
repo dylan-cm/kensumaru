@@ -1,5 +1,19 @@
 import Section from "../molecules/Section";
 import Layout from "../organisms/Layout";
+import chuck1 from "../assets/0portraitchuck1.jpeg";
+import chuck2 from "../assets/0portraitchuck3.jpeg";
+import casey from "../assets/0portraitcasey.jpeg";
+import jeff from "../assets/0portraitjeff.jpeg";
+import eric from "../assets/0postereric.jpeg";
+import clint from "../assets/0portraitclint.jpeg";
+import rick from "../assets/0portraitrick.jpeg";
+import jj from "../assets/0portaitjj.jpeg";
+import inky from "../assets/0portraitinky.jpeg";
+import girlie from "../assets/0portraitgirlie.jpeg";
+import daniel from "../assets/0danny.jpeg";
+import iris from "../assets/0portraitira.jpeg";
+import manny from "../assets/0portraitmanny.jpeg";
+import Image from "../atoms/Image";
 
 const Crew = () => {
   return (
@@ -7,6 +21,8 @@ const Crew = () => {
       <Section head="The Expedition Team">
         <h3>Dr. Chuck Mcdougald PhD</h3>
         <h4>Expedition Leader</h4>
+
+        <Image src={chuck2} left />
         <p>
           DR. CHUCK McDOUGALD PhD has lived a life of adventure and
           accomplishment. He’s been described in the press as a “real life
@@ -26,8 +42,10 @@ const Crew = () => {
           Vietnam and was assigned as security for an Australian medical unit
           where he served out of uniform in civilian clothes. He had a top
           secret security clearance and some of his missions remain classified
-          to this day. <br />
+          to this day.
           <br />
+          <br />
+          <Image src={chuck1} left />
           For his next assignment he was transferred to the 1st Special Forces
           Group on Okinawa. McDougald commanded the 156th Medical Detachment, in
           charge of training all Special Forces medics going to Vietnam. While
@@ -62,8 +80,10 @@ const Crew = () => {
           The manuscript was noticed by an anti-Marcos journalist who realized
           it could help the Aquino campaign. Part of it was published in a
           popular magazine and the million copies printed all sold out within
-          days. <br />
+          days.
           <br />
+          <br />
+          <Image src={chuck1} left />
           Marcos was declared the winner of the election but the election was
           proven to be fraudulent. Thus began a sequence of events that led to
           the People Power Revolution that deposed Marcos and forced him to flee
@@ -100,6 +120,8 @@ const Crew = () => {
         </p>
         <h3>John Casey</h3>
         <h4>Treasure Hunter/Expedition Manager</h4>
+
+        <Image src={casey} left />
         <p>
           John Casey is a professional treasure hunter, explorer and
           President/CEO of Geoscan Inc. As the former owner of a general
@@ -135,6 +157,8 @@ const Crew = () => {
         </p>
         <h3>Jeff Smith</h3>
         <h4>Undersea Technologist</h4>
+
+        <Image src={jeff} left />
         <p>
           Jeff Smith is an entrepreneur and subsea technologist. He is currently
           a Chief Scientist for Unmanned Undersea Vehicle (UUV) Systems with BAE
@@ -166,6 +190,8 @@ const Crew = () => {
         </p>
         <h3>Eric Brager</h3>
         <h4>UUV & ROV Operator</h4>
+
+        <Image src={eric} left />
         <p>
           Eric is considered one of the best sonar and ROV technicians and
           pilots in the world. For the past 18 years Eric has been operating and
@@ -183,6 +209,8 @@ const Crew = () => {
         </p>
         <h3>Clint Guthrie</h3>
         <h4>Cryptographer</h4>
+
+        <Image src={clint} left />
         <p>
           Clint is a cryptographer and researcher who has worked as a small
           business owner and operator in the Oil & Gas and real estate
@@ -198,6 +226,8 @@ const Crew = () => {
         </p>
         <h3>Rick Hurt</h3>
         <h4>Metallurgy Expert</h4>
+
+        <Image src={rick} left />
         <p>
           Rick is the founder and owner of Liberty Refiners specializing in high
           purity metals refining and ore analysis. His background in the
@@ -216,6 +246,8 @@ const Crew = () => {
       <Section head="The Philippine Crew">
         <h3>JJ Samual Soriano</h3>
         <h4>Advisor</h4>
+
+        <Image src={jj} left />
         <p>
           JJ SORIANO is the son of Dr. Emanuel Soriano, former National Security
           Adviser to President Aquino. It was JJ’s father, Emanuel Soriano, who
@@ -240,6 +272,8 @@ const Crew = () => {
         </p>
         <h3>Inky Nakpil</h3>
         <h4>Line Producer/Fixer</h4>
+
+        <Image src={inky} left />
         <p>
           Inky is a television professional with over twenty years experience
           producing relevant and interesting programs together with prime
@@ -252,6 +286,8 @@ const Crew = () => {
         </p>
         <h3>Girlie Linao</h3>
         <h4>Line Producer/Fixer</h4>
+
+        <Image src={girlie} left />
         <p>
           Girlie is highly sought by foreign productions looking for a producer
           and manager in the Philippines. She works with a talented pool of
@@ -264,6 +300,8 @@ const Crew = () => {
         </p>
         <h3>Daniel Lasher</h3>
         <h4>Philippine Security Chief</h4>
+
+        <Image src={daniel} left />
         <p>
           Daniel is a resident of the Philippines for over 20 years with
           extensive experience in security for both the government and private
@@ -279,6 +317,8 @@ const Crew = () => {
         </p>
         <h3>Dr. Iris Sylvan M.D.</h3>
         <h4>Covid Safety Officer / Crew Medic</h4>
+
+        <Image src={iris} left />
         <p>
           Dr. Sylvan will be responsible for Covid Safety protocol compliance
           and all immediate health issues of both cast and crew. Plans all
@@ -286,9 +326,16 @@ const Crew = () => {
           based on the capabilities of the local emergency services and
           hospitals. Former Set Physician for Fixer Ink Philippines working on
           the Naked and Afraid TV Series.
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
         </p>
         <h3>Manny Paez</h3>
         <h4>Philippine Logistics Coordinator</h4>
+
+        <Image src={manny} left />
         <p>
           Born in Manila and migrated to the US after joining the US Navy from
           Subic Bay, Philippines. Manny’s last military service unit was the US

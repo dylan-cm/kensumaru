@@ -26,6 +26,10 @@
   margin-bottom: 0;
 }
 
+.bleed {
+  width: 100% !important;
+}
+
 @media (max-width: 600px) {
   .generic-image {
     align-self: center;
