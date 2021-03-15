@@ -47,7 +47,7 @@ const Synopsis = () => {
         <br />
         If Dr. McDougald is correct in his prediction of the Kensu Maru's
         location it will verify the authenticity of his information and will
-        then lead to locating and recovering elevan other scuttled hospital
+        then lead to locating and recovering eleven other scuttled hospital
         ships also loaded with billions in gold. His mission will not only
         reveal the truth about Yamashita’s legendary treasure it will expose the
         dark secrets about the corruption and greed of the Marcos regime, secret

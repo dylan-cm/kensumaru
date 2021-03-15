@@ -10,46 +10,40 @@ const Crew = () => {
         <p>
           DR. CHUCK McDOUGALD PhD has lived a life of adventure and
           accomplishment. He’s been described in the press as a “real life
-          Indiana Jones” and is the author of three books,The Marcos File, Asian
-          Loot - Unearthing the secrets of Marcos, Yamashita, AND the Gold, and
-          The Buddha, The Gold, and The Myth.
-          <br />
-          <br />
-          His academic credentials include a Bachelor of Science Degree from the
-          University of Georgia, a Masters Degree from the Asian Institute of
-          Management, and a Doctorate in business from the University of the
-          Philippines. He’s a licensed pilot with a 4th degree black belt in
-          both Shoto-kan and Seigo-kan karate and has an IQ of 163.
+          Indiana Jones” and is the author of three books,THE MARCOS FILE; ASIAN
+          LOOT - UNEARTHING THE SECRETS OF MARCOS, YAMASHITA, AND THE GOLD, AND
+          THE BUDDHA; THE GOLD, AND THE MYTH. His academic credentials include a
+          Bachelor of Science Degree from the University of Georgia, a Masters
+          Degree from the Asian Institute of Management, and a Doctorate in
+          business from the University of the Philippines. He’s a licensed pilot
+          with a 4th degree black belt in both Shoto-kan and Seigo-kan karate
+          and has an IQ of 163.
           <br />
           <br />
           Born and raised in small town Georgia, the son of a railroad engineer,
-          he joined the US Army in 1964 and after his promotion to Fist
-          Lieutenant, a requirement for special forces, served for over five
-          years in the special forces as a Green Beret Captain. He volunteered
-          for service in Vietnam and was assigned as security for an Australian
-          medical unit where he served out of uniform in civilian clothes. He
-          had a top secret security clearance and some of his missions remain
-          classified to this day.
+          he joined the US Army in 1964 and served for over five years in the
+          Special Forces as a Green Beret Captain. He volunteered for service in
+          Vietnam and was assigned as security for an Australian medical unit
+          where he served out of uniform in civilian clothes. He had a top
+          secret security clearance and some of his missions remain classified
+          to this day. <br />
           <br />
+          For his next assignment he was transferred to the 1st Special Forces
+          Group on Okinawa. McDougald commanded the 156th Medical Detachment, in
+          charge of training all Special Forces medics going to Vietnam. While
+          there he trained as a master parachutist, performing HALO jumps (High
+          Altitude Low Opening) exiting the plane from 25,000 feet, free falling
+          at 190 miles an hour, and only opening his chute at 4,000 feet. <br />
           <br />
-          After his tour in Vietnam he commanded the 156th Medical Detachment
-          where he trained Special Forces medics on Okinawa and , as a master
-          parachutist, he performed HALO (High Altitude Low Opening) jumps
-          exiting the plane from 25,000 feet, free falling at 190 miles an hour,
-          and only opening his shoot at 4,000 feet. He then took six two man
-          medical teams to the Thai- Laotian border, again out of uniform and in
-          civilian clothes. His first duty on arrival was to approve an order of
-          the CIA’s Phoenix Program that planned assassinations of political
-          enemies in Vietnam. After he left the service he accepted a job as
-          country manager of Piedmont International and returned to Vietnam in
-          1969 as a civilian to sell mutual funds to American soldiers and
-          civilians living in what was still an active war zone. After winning
-          Salesman of the Year he moved from Saigon to Hong Kong where he
-          managed several businesses. In 1972 he moved to the Philippines where
-          he launched a successful business importing whiskey from Scotland. It
-          was the same year Ferdinand Marcos declared martial law. McDougald
-          started to keep a file to document the vast corruption of the Marcos
-          regime.
+          After he left the service he accepted a job as country manager of
+          Piedmont International and returned to Vietnam in 1969 as a civilian
+          to sell mutual funds to American soldiers and civilians living in what
+          was still an active war zone. After winning Salesman of the Year he
+          moved from Saigon to Hong Kong where he managed several businesses. In
+          1972 he moved to the Philippines where he launched a successful
+          business importing whiskey from Scotland. It was the same year
+          Ferdinand Marcos declared martial law. McDougald started to keep a
+          file to document the vast corruption of the Marcos regime.
           <br />
           <br />
           He sold his business and went back to school on the GI bill. While
@@ -68,8 +62,7 @@ const Crew = () => {
           The manuscript was noticed by an anti-Marcos journalist who realized
           it could help the Aquino campaign. Part of it was published in a
           popular magazine and the million copies printed all sold out within
-          days.
-          <br />
+          days. <br />
           <br />
           Marcos was declared the winner of the election but the election was
           proven to be fraudulent. Thus began a sequence of events that led to
@@ -154,14 +147,14 @@ const Crew = () => {
           <br />
           In 2010, Smith was tapped by the US Navy’s Unmanned Maritime Systems
           program to chair a broad industry team to conduct a study of the
-          supporting technology areas for Unmanned Underwater Vehicles in
-          support of a pending UUV Master Plan update. Over the past several
-          years, Jeff has also been selected as a subject matter expert to
-          participate in numerous war games and study panels focused on the
-          future of undersea warfare for DARPA, COMSUBFOR, OSD and ONA. Jeff
-          also holds patents in robotics, UUVs, electro-optical systems, rapid
-          prototyping, subsea battery safety systems, biomedical devices, and in
-          a counter-sniper system, with additional patents pending.
+          supporting technology areas for Unmanned Undersea Vehicles in support
+          of a pending UUV Master Plan update. Over the past several years, Jeff
+          has also been selected as a subject matter expert to participate in
+          numerous war games and study panels focused on the future of undersea
+          warfare for DARPA, COMSUBFOR, OSD and ONA. Jeff also holds patents in
+          robotics, UUVs, electro-optical systems, rapid prototyping, subsea
+          battery safety systems, biomedical devices, and in a counter-sniper
+          system, with additional patents pending.
           <br />
           <br />
           He holds a BS in Mechanical Engineering from Worcester Polytechnic
@@ -182,7 +175,7 @@ const Crew = () => {
           project manager, systems engineer, operator, sonar data processor, and
           technician. Recently he was the lead AUV operator and data processor
           on Paul Allen’s research ship, the R/V Petrel. During his time on
-          Petrel Eric logged thousands of hours of deep seafloor survey. On the
+          Petrel Eric logged thousands of hours of deep seafloor survey. On the
           Petrel he was involved in searching for and finding over 32 WWII
           shipwrecks, including many in the Philippines, in depths up to 6,200
           meters including the USS Indianapolis, USS Wasp, and USS Hornet. Eric
@@ -222,7 +215,7 @@ const Crew = () => {
       </Section>
       <Section head="The Philippine Crew">
         <h3>JJ Samual Soriano</h3>
-        <h4>Philippine Government Liaison</h4>
+        <h4>Advisor</h4>
         <p>
           JJ SORIANO is the son of Dr. Emanuel Soriano, former National Security
           Adviser to President Aquino. It was JJ’s father, Emanuel Soriano, who
@@ -287,11 +280,12 @@ const Crew = () => {
         <h3>Dr. Iris Sylvan M.D.</h3>
         <h4>Covid Safety Officer / Crew Medic</h4>
         <p>
-          Responsible for Covid Safety protocol compliance and all immediate
-          health issues of both cast and crew. Plans all necessary arrangements
-          and emergency action plans for each location based on the capabilities
-          of the local emergency services and hospitals. Former Set Physician
-          for Fixer Ink Philippines working on the Naked and Afraid TV Series.
+          Dr. Sylvan will be responsible for Covid Safety protocol compliance
+          and all immediate health issues of both cast and crew. Plans all
+          necessary arrangements and emergency action plans for each location
+          based on the capabilities of the local emergency services and
+          hospitals. Former Set Physician for Fixer Ink Philippines working on
+          the Naked and Afraid TV Series.
         </p>
         <h3>Manny Paez</h3>
         <h4>Philippine Logistics Coordinator</h4>

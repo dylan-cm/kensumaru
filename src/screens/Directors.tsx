@@ -101,11 +101,11 @@ const Directors = () => {
           <br />I was even more impressed when I met him in person a few years
           later to learn he was described accurately. I’ve had the pleasure of
           working with Charles on two films prior to this. When he contacted me
-          to join him on the Kensu Maru g project I jumped at the chance.
-          Treasure hunt in the Philippines to recover billions in stolen gold
-          from a sunken WWII Japanese ship? He had me at “Treasure Hunt.” He
-          said it would be possibly lucrative, possibly dangerous. It sounded
-          even better. It would be a great adventure. But as I did my research I
+          to join him on the Kensu Maru project I jumped at the chance. Treasure
+          hunt in the Philippines to recover billions in stolen gold from a
+          sunken WWII Japanese ship? He had me at “Treasure Hunt.” He said it
+          would be possibly lucrative, possibly dangerous. It sounded even
+          better. It would be a great adventure. But as I did my research I
           realized it would also be a great story.
           <br />
           <br />
@@ -160,7 +160,7 @@ const Directors = () => {
           and justice.
           <br />
           <br />
-          It’s a simple story with complex subplots. On one level, its a hunt
+          It’s a simple story with complex subplots. On one level, it’s a hunt
           for hidden treasure. On another level its an expose of geopolitical
           skullduggery at the highest level. It reveals a web of deceit and
           corruption involving the governments of Japan, The Philippines and the
@@ -189,7 +189,7 @@ const Directors = () => {
           <br />
           How will the story end? We don’t know, and that’s part of the appeal.
           Dr. McDougald and the expedition crew are confident they will find a
-          treasure of historic proportions. I’m confident that wether we find
+          treasure of historic proportions. I’m confident that whether we find
           the gold or not, we’ll have found a treasure of a different sort. A
           great story.
         </p>

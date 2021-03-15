@@ -38,8 +38,8 @@ const Treasure = () => {
           <br />
           Dr. McDougald’s research has indicated there are twelve of these
           scuttled hospital ships, each containing over half-a-billion dollars
-          in gold at 1944 prices ( $44 per ounce ) Today an ounce of gold is
-          valued at $1,800 an ounce making the treasure worth over 20 billion
+          in gold at 1944 prices ($44/oz) Today an ounce of gold is valued at
+          around $1,800 an ounce making the treasure worth over 20 billion
           dollars. Our expedition is planning to locate the one that’s easiest
           to recover, the ship code-named Kensu Maru.
         </p>

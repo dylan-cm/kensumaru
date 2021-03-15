@@ -12,15 +12,15 @@ const Crew = () => {
           experience on both narrative feature films and documentaries. He was a
           producer on the documentaries THE BIG FIX and VANISHING SAIL and has
           worked as a Sail Master, Boat Captain, and Marine Department Crew on
-          four Pirates of the Caribbean franchise movies. Most recently he was a
-          Boat Captain on Tom Cruise’s upcoming action feature Top Gun:
-          Maverick.
+          four PIRATES OF THE CARIBBEAN franchise movies. Most recently he was a
+          Boat Captain on Tom Cruise’s upcoming action feature TOP GUN:
+          MAVERICK.
           <br />
           <br />
           Charles was a Cinematographer, Producer, Sound Man, the Aerial
           Coordinator, Thermographer, and Director of Clandestine Operations for
-          the Academy Award-winning documentary, The Cove. He filmed the
-          majority of the verité footage in the movie and conceived many of the
+          the Academy Award-winning documentary, THE COVE. He filmed the
+          majority of the verité footage in the movie and devised many of the
           film’s most impactful scenes. He conceived the idea to use thermal
           imaging and to use cameras hidden in fake rocks to film inside the
           actual “killing cove”. He secretly penetrated the killing cove 18
@@ -28,7 +28,7 @@ const Crew = () => {
           the award-winning underwater “Blood Cam” footage.
           <br />
           <br />
-          For the documentary Racing Extinction, he covertly filmed illegal
+          For the documentary RACING EXTINCTION, he covertly filmed illegal
           wildlife wet markets, illegal shark fin trade, and Whale Shark
           smuggling operations in China and South Korea. The film featured his
           footage from his endangered species whale meat sting operation at the
@@ -65,7 +65,7 @@ const Crew = () => {
         <h3>Johnny O’Hara</h3>
         <h4>Writer / Director</h4>
         <p>
-          Johnny O’Hara is an award-winning filmmaker with an extensive list of
+          Johnny O’Hara is an award- winning filmmaker with an extensive list of
           theatrical credits with a focus on social issue documentaries. His
           first feature documentary FUEL, won the Audience Award for Best
           Documentary at the 2008 Sundance Film Festival. FUEL also earned
@@ -93,7 +93,7 @@ const Crew = () => {
           Festival, The Vancouver International Film Festival, The Stockholm
           International Film Festival and The Jakarta International Film
           Festival. After a 47 city US theatrical run and a successful release
-          in both Pakistan and the UK, Bhutto had its national television
+          in both Pakistan and the U.K., Bhutto had its national television
           premiere on PBS Independent Lens.
           <br />
           <br />
@@ -112,7 +112,7 @@ const Crew = () => {
           His next film, GOOD FORTUNE, had its international premiere at the
           2016 Zurich Film Festival and its American premiere at the 2016 Austin
           Film Festival. It was awarded Best of the Fest and Best Feature
-          Documentary at the 2017 Sedona Film Festival, and had an 8 city US
+          Documentary at the 2017 Sedona Film Festival, and had an 8 city U.S.
           theatrical release by Lionsgate.
           <br />
           <br />
@@ -150,34 +150,34 @@ const Crew = () => {
         <h3>Pamela Green</h3>
         <h4>Motion Graphics / Archival Producer</h4>
         <p>
-          Pamela Green is an award winning director/writer/producer/researcher
+          Pamela Green is an award winning director/writer/producer/ researcher
           and founder of PIC AGENCY, an entertainment and motion design boutique
-          based in Los Angeles,California. She is known in the industry for
+          based in Los Angeles,California. She is known in the industry for
           creating innovative title sequences and story sequences using her
           knowledge of graphic design, animation, editorial, and rare archival
           stock footage research. Her skills have been displayed in such films
-          such as the Bourne series, Fast and Furious, The Muppets, Rings and
+          such as the BOURNE series, FAST AND FURIOUS, THE MUPPETS, RINGS and
           several Marvel comic book franchises. She has also worked on films
-          such as The Cabin the Woods and The Kingdom. For television and
-          streaming, she has created titles for Supergirl, The Flash,
-          and Quantico among many others. In addition, Pamela B. Green has
-          creative directed and produced TV show and award show packages for,
-          among others, the Academy Awards, Billboard Awards, and Critics Choice
+          such as The CABIN THE WOODS and THE KINGDOM. For television and
+          streaming, she has created titles for SUPERGIRL, THE FLASH, and
+          QUANTICO among many others. In addition, Pamela B. Green has creative
+          directed and produced TV show and award show packages for, among
+          others, the Academy Awards, Billboard Awards, and Critics Choice
           Awards, and MTV Awards.
           <br />
           <br />
-          Green wrote, directed, produced, and edited the documentary Be Natural
+          Green wrote, directed, produced, and edited the documentary BE NATURAL
           about the first female filmmaker Alice Guy-Blaché, which premiered at
           Cannes in May 2018, where it was nominated for the festival’s L’Œil
-          d’or documentary prize. Green recently founded Legwork Collective,
-          whose “media detectives” find and obtain rights to unusual and rarely
+          d’or documentary prize. Green recently founded LEGWORK COLLECTIVE,
+          whose “media detectives” find and obtain rights to unusual and rarely
           seen before footage, stills, audio, and artifacts for use in feature
           films, documentaries, TV series, commercials and other industries
           outside of entertainment.
           <br />
           <br />
           Pamela has successfully collaborated with several members of the KENSU
-          MARU team in the past working with Co-director Johnny O’Hara on FUEL,
+          MARU team in the past working with Co- director Johnny O’Hara on FUEL,
           BHUTTO, GOOD FORTUNE, and most recently KISS THE GROUND. She has also
           worked with editors Tina Imahara on FUEL and Sean Keenan on THE BIG
           FIX, GOOD FORTUNE, KISS THE GROUND.
@@ -214,15 +214,14 @@ const Crew = () => {
           Creative Advisory Board for The Redford Center.
           <br />
           <br />
-          Other notable documentaries Tina has contributed as editor are DEAR
+          Other notable documentaries Tina has contributed as editor are DEAR
           MOM, LOVE CHER, a LifeTime Special produced by Cher on the remarkable
-          life story of her mother, and SCRAMBLE THE SEAWOLVES, a PBS
+          life story of her mother, and SCRAMBLE THE SEAWOLVES, a PBS
           documentary on the Navy’s first dedicated helicopter attack gunship
-          squadron, the most decorated squadron in Naval history.  Most
-          recently, Tina completed editing THRIVE II: This is What It Takes, the
-          follow up to THRIVE: What on Earth Will It Take (over 90 million views
-          in 27 languages) revealing the evidence on free energy and health
-          cures.
+          squadron, the most decorated squadron in Naval history. Most recently,
+          Tina completed editing THRIVE II: THIS IS WHAT IT TAKES, the follow up
+          to THRIVE: WHAT ON EARTH WILL IT TAKE (over 90 million views in 27
+          languages) revealing the evidence on free energy and health cures.
           <br />
           <br />
           Receiving her MFA from the Editing Program at the American Film
@@ -245,7 +244,7 @@ const Crew = () => {
           technical skills making him an accomplished online editor and
           colorist. He has extensive experience using AVID MC, Symphony,
           Premiere Pro, FCP, DaVinci Resolve, Smoke and Scratch and is also
-          proficient on After Effects and most of Adobe's products. His wide
+          proficient on After Effects and most of Adobe's products. His wide
           range of experience helps in streamlining the post production process
           and enables him to guide a film from rough assembly to finished
           product. Among the films he has worked on with Co-Director Johnny
@@ -290,8 +289,8 @@ const Crew = () => {
           preserve wild salmon in Alaska’s Bristol Bay. John has served on the
           boards of the Seattle International Film Festival and the Northwest
           Film Forum. He teaches producing as an adjunct professor at Seattle
-          University in addition to year-round board duties with musical
-          non-profit presenters Earshot Jazz and The Jazz Bakery.
+          University in addition to year-round board duties with musical non-
+          profit presenters Earshot Jazz and The Jazz Bakery.
           <br />
           <br />
           The broadcast community is also home to advisory council duties at NPR
@@ -355,12 +354,12 @@ const Crew = () => {
           franchises in the history of TV. Katz started his involvement in the
           film business when he helped Chappelle and Neal Brennan (who
           eventually went on to create Chappelle's Show) sell the cult classic
-          Half Baked to Universal Studios and went on to produce several films
+          HALF BAKED to Universal Studios and went on to produce several films
           after that, including Employee of the Month (starring Jessica Simpson
-          and Cook), Good Luck Chuck (starring Jessica Alba), My Best Friend's
-          Girl (starring Kate Hudson and Alec Baldwin), I Killed JFK (about the
-          only living person in history to admit to killing Kennedy), and Misery
-          Loves Comedy (starring Tom Hanks, Amy Schumer, Judd Apatow, and Larry
+          and Cook), GOOD LUCK CHUCK (starring Jessica Alba), MY BEST FRIEND'S
+          GIRL (starring Kate Hudson and Alec Baldwin), I KILLED JFK (about the
+          only living person in history to admit to killing Kennedy), and MISERY
+          LOVES COMEDY (starring Tom Hanks, Amy Schumer, Judd Apatow, and Larry
           David). In the recording world, he has produced Grammy nominated,
           multiple gold, platinum, and double platinum albums, while becoming
           the only manager/producer to debut a comedy album in Billboard's top 5

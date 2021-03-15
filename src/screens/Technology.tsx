@@ -113,6 +113,16 @@ const Technology = () => {
           missions fits nicely with some of our film’s WWII military history and
           environmental initiatives.
         </p>
+        <h3>Waka Seto</h3>
+        <p>
+          The research vessel Waka Seto is the smallest survey vessel operated
+          by Sub-See Philippines, an oceaneering company based in Cebu City,
+          Philippines. The 52ft Waka Seta has conducted hydrographic,
+          geophysical, and seismic surveys and is perfectly suited to tend our
+          Riptide UUV and, if needed, tow an additional multi-beam sonar rig.
+          Sub See Philippines operates a fleet of seven research vessels ranging
+          from the 52ft Waka Seta up to 265ft M/Y Northern Queen.
+        </p>
       </Section>
     </Layout>
   );
