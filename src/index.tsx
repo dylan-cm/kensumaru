@@ -8,7 +8,8 @@ ReactDOM.render(
     <Suspense fallback={<div className="spinner" />}>
       <Router>
         <Switch>
-          <Route
+          <Route path="/" component={React.lazy(() => import('./screens/UnderConstruction'))} />
+          {/* <Route
             exact
             path="/"
             component={React.lazy(() => import("./screens/Home"))}
@@ -47,7 +48,7 @@ ReactDOM.render(
             exact
             path="/Treasure"
             component={React.lazy(() => import("./screens/Treasure"))}
-          />
+          /> */}
         </Switch>
       </Router>
     </Suspense>

@@ -280,8 +280,7 @@ const Crew = () => {
           Geographic Society, Discovery Channel and NBC Universal, MTV UK &
           Northern Ireland on a diverse range of formats covering news & current
           affairs, science & natural history, adventure races, travelogues and
-          feature films. Her work includes recent Philippine focused
-          documentaries THE KING MAKER and 1,000 CUTS.
+          feature films.
         </p>
         <h3>Girlie Linao</h3>
         <h4>Line Producer/Fixer</h4>
